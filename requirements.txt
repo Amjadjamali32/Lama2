@@ -1,3 +1,4 @@
+python-dotenv==0.21.1
 Flask
 langchain-groq
 python-dotenv
